@@ -21,7 +21,7 @@ After running the project, go to "http://localhost:8080/cards362/?host&player=1&
 Then open another tab and go to "http://localhost:8080/cards362/?player=2"
 
 # Sample Run 
-![dealer](https://github.com/nbabtsov/cards_game/assets/31867318/191c9cb4-abfc-4e25-b63c-6dffcfb43ca3)
-![player2](https://github.com/nbabtsov/cards_game/assets/31867318/2da1db9d-067f-46f5-aa5a-074d4383e5f3)
-![dealer_dealt](https://github.com/nbabtsov/cards_game/assets/31867318/526744bf-33f1-466e-86f9-224ef76c0a59)
-![player2played](https://github.com/nbabtsov/cards_game/assets/31867318/f47a9114-016d-4f1a-aba1-b74dd7491f50)
+![dealer](https://github.com/nbabtsov/cards_game/assets/31867318/95f3d192-9628-4d3c-a53c-46bfc299671f)
+![player2](https://github.com/nbabtsov/cards_game/assets/31867318/95030230-26f1-45d8-9aab-d627473b6915)
+![dealer_dealt](https://github.com/nbabtsov/cards_game/assets/31867318/4a29b11c-cfa5-4bd9-b3b2-22f17bc137a3)
+![player2played](https://github.com/nbabtsov/cards_game/assets/31867318/c19f80ff-8008-40b1-bfd0-61907b052807)
