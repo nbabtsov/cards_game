@@ -2,12 +2,13 @@
 This is a framework for term projects in an object-oriented design class.
 
 # Members
+ * Nika Babtsov
  * Collin Reeves
  * Aaron Walter
  * Andrew Dort 
  * Richard Anderson 
  * Jiong Li
- * Nika Babtsov
+
 # Running on IntelliJ
 If you are doing this on intellij:
 
